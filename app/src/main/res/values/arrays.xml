@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dns_types_entries">
+        <item>Default</item>
+        <item>DNS over TLS</item>
+        <item>DNS over HTTPS</item>
+    </string-array>
+
+    <string-array name="dns_types_values">
+        <item>default</item>
+        <item>dot</item>
+        <item>doh</item>
+    </string-array>
+
+    <string-array name="log_level_values">
+        <item>panic</item>
+        <item>fatal</item>
+        <item>error</item>
+        <item>warm</item>
+        <item>info</item>
+        <item>debug</item>
+        <item>trace</item>
+    </string-array>
+
+    <string-array name="log_level_entries">
+        <item>Panic</item>
+        <item>Fatal</item>
+        <item>Error</item>
+        <item>Warn</item>
+        <item>Info</item>
+        <item>Debug</item>
+        <item>Trace</item>
+    </string-array>
+</resources>

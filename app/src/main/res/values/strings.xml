@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">relaybaton-android</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- Client Preferences -->
+    <string name="client_header">Client</string>
+    <string name="client_server_title">Server</string>
+    <string name="client_username_title">User</string>
+    <string name="client_password_title">Password</string>
+    <string name="client_proxy_all">Proxy All</string>
+
+    <!-- DNS Preferences -->
+    <string name="dns_header">DNS</string>
+    <string name="dns_type_title">Type</string>
+    <string name="dns_server_title">Server</string>
+    <string name="dns_addr_title">Address</string>
+    <string name="dns_local_resolve_title">Local Resolve</string>
+
+    <!-- Log Preferences -->
+    <string name="log_header">Log</string>
+    <string name="log_level_title">Level</string>
+</resources>
